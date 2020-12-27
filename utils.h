@@ -1,6 +1,6 @@
 #ifndef UTILS_H
 #define UTILS_H
 
-#define MAXN 10
+#define MAXN 100
 
 #endif //UTILS_H
